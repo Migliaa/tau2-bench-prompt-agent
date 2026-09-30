@@ -12,3 +12,6 @@ __pycache__/
 
 # risultati grezzi dei run (i results.json pubblicati vanno aggiunti a mano)
 results/raw/
+
+# file interni di lavoro (restano in locale)
+CLAUDE.md

@@ -18,8 +18,6 @@ Questo progetto misura quanto si guadagna agendo solo sul prompt — e soprattut
 modo di saperlo: ogni conversazione tracciata, metriche per singola azione, previsioni registrate
 prima dell'esperimento, ripetizioni per separare il risultato dal caso.
 
-È l'infrastruttura che resta quando il modello cambia.
-
 *(85 parole)*
 
 ---
