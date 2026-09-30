@@ -79,6 +79,7 @@ PYTHONIOENCODING=utf-8 PYTHONUTF8=1 tau2-bench/.venv/Scripts/python.exe scripts/
 | `scripts/` | run workers, Langfuse publishing, statistics (McNemar, pass^k), the judge |
 | `docs/` | failure analysis (`s5-correzioni.md`), prompt design rationale, the benchmark bug report, research notes |
 | `report/` | the write-up prepared for the portfolio site (Italian), with figures |
+| `s*.log`, `s5_*.txt` | raw console logs of each run, kept as evidence |
 | `DIARIO.md` | full working diary, in Italian, including the wrong hypotheses |
 
 MIT, see [`LICENSE`](LICENSE).
